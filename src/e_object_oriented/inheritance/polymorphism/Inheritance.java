@@ -1,4 +1,4 @@
-package e_object_oriented.inheritance;
+package e_object_oriented.inheritance.polymorphism;
 
 public class Inheritance {
     public static void main(String[] args) {

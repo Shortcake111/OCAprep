@@ -1,4 +1,4 @@
-package d_methods_and_Encapsulation;
+package d_methods_and_encapsulation;
 
 public class AccessModifiers {
     public static void main(String[] args) {
